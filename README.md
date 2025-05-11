@@ -2,9 +2,11 @@
   <img src="git_image.png" alt="Welcome to Gonn's Github">
 </div>
 
-<div align="center">
-✨ Tech Stack ✨
 
+<div align="center">
+  
+✨ Tech Stack ✨
+<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
@@ -29,4 +31,5 @@
 📫 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/gounpark7475@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:gounpark7475@gmail.com)](mailto:gounpark7475@gmail.com)
+
 </div>
