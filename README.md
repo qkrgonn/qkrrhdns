@@ -2,7 +2,7 @@
   <img src="git_image.png" alt="Welcome to Gonn's Github">
 </p>
 
----
+
 
 ## ✨ Tech Stack ✨
 
@@ -15,7 +15,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
----
+
 
 ## 🛠 Tools
 
@@ -25,7 +25,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
 
 ## 📫 Contact
 
