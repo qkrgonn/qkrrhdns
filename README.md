@@ -6,7 +6,7 @@
 <div align="center">
   
 ✨ Tech Stack ✨
-<br>
+<br><br>
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
@@ -19,7 +19,7 @@
 
 
 🛠 Tools
-<br>
+<br><br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -29,7 +29,7 @@
 
 
 📫 Contact
-<br>
+<br><br>
 [![Gmail Badge](https://img.shields.io/badge/gounpark7475@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:gounpark7475@gmail.com)](mailto:gounpark7475@gmail.com)
 
 </div>
