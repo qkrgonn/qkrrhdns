@@ -15,7 +15,7 @@
 <p align="center">
   - 🔍 I am currently a student and a junior developer. <br>
   - 🔨 I use JMeter, Locust, and write automated test cases. <br>
-  - 📚 Studying for JPT, TOEIC, and ISTQB. <br>
+  - 📚 Studying for JPT, IELTS, and ISTQB. <br>
   - 🧠 I’m learning Java, TypeScript, and Docker. <br>
   - 🌱 Interested in Clean Code & Agile Testing. 
 </p>
