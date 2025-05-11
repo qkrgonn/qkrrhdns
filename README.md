@@ -18,8 +18,8 @@
 
 
 
- 🛠 Tools
-
+🛠 Tools
+<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -29,7 +29,7 @@
 
 
 📫 Contact
-
+<br>
 [![Gmail Badge](https://img.shields.io/badge/gounpark7475@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:gounpark7475@gmail.com)](mailto:gounpark7475@gmail.com)
 
 </div>
