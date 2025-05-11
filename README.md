@@ -2,6 +2,7 @@
   <img src="git_image.png" alt="Welcome to Gonn's Github">
 </div>
 
+<div align="center">
 ✨ Tech Stack ✨
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -28,3 +29,4 @@
 📫 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/gounpark7475@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:gounpark7475@gmail.com)](mailto:gounpark7475@gmail.com)
+</div>
