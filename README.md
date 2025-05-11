@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Welcome to Gonn’s Github.png" alt="Welcome to Gonn's Github">
+  <img src="git_image.png" alt="Welcome to Gonn's Github">
 </div>
 
 
