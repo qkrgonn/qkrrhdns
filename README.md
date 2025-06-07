@@ -22,13 +22,6 @@
 
 
 <br><br>
-<h3 align="center">📈 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gonn&show_icons=true&theme=tokyonight" alt="Gonn's GitHub Stats">
-</div>
-
-<br><br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
